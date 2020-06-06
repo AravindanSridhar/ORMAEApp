@@ -1,0 +1,29 @@
+{
+  "name": "ormaeapp",
+  "version": "1.0.0",
+  "description": "A real time vechicle tracking application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AravindanSridhar/ORMAEApp.git"
+  },
+  "author": "Aravindan Sridhar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AravindanSridhar/ORMAEApp/issues"
+  },
+  "homepage": "https://github.com/AravindanSridhar/ORMAEApp#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "chalk": "^4.0.0",
+    "crypto": "^1.0.1",
+    "ejs": "^3.1.3",
+    "express": "^4.17.1",
+    "geolib": "^3.3.1",
+    "moment": "^2.26.0",
+    "morgan": "^1.10.0"
+  }
+}
